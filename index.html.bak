@@ -11,7 +11,7 @@
 	})(window,document,'script','dataLayer','GTM-5QRG3R2');</script>
 	<!-- End Google Tag Manager -->
 	
-  <title>The portfolio page of Systems Analyst Oko Ek.</title>
+  <title>The portfolio page of Systems Analyst.</title>
   
  </head>
  <body>
@@ -28,10 +28,11 @@
 	<p><a href="https://oko-ek.github.io/software_list">List of used software. Systems Analysis. QA. Support.</a></p>
 	<p><a href="https://oko-ek.github.io/notes_experience">Notes. Experience. Systems Analysis. QA. Support.</a></p>
 	<p>Page is hosted with GitHub Pages.</p>
-	<p>Oko Ek 2020 (c)</p>
+	<p>Oko Ek 2022 (c)</p>
 
-  <form>
-   <p><input type="button" value="More about API" href="https://oko-ek.github.io/api_description"></p>
+  
+  <form action="https://oko-ek.github.io/api_description" target="_blank" <!--откроется в новой вкладке--> >
+   <button>More about API</button>
   </form>
 
  </body>
